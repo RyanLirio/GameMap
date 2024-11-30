@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\gameMap\bin\Debug\net8.0\gameMap.exe
+C:\Users\RL\desktop\gameMap\bin\Debug\net8.0\gameMap.deps.json
+C:\Users\RL\desktop\gameMap\bin\Debug\net8.0\gameMap.runtimeconfig.json
+C:\Users\RL\desktop\gameMap\bin\Debug\net8.0\gameMap.dll
+C:\Users\RL\desktop\gameMap\bin\Debug\net8.0\gameMap.pdb
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.AssemblyInfo.cs
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.dll
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\refint\gameMap.dll
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.pdb
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\gameMap.genruntimeconfig.cache
+C:\Users\RL\desktop\gameMap\obj\Debug\net8.0\ref\gameMap.dll
